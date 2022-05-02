@@ -150,7 +150,7 @@ let map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mapbox/satellite-streets-v11',
   center: [-71.10484,42.37082],
-  zoom: 13,
+  zoom: 12,
 });
 
 // Adds marker to the map at the first coordinates in the array routePoints. 

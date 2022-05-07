@@ -36,11 +36,13 @@ Click <a href="https://ksengland.github.io/Drive-Tracker/" target="_blank">here<
 ## Author:
 **Karleen England**
 <br>
-[GitHub](https://github.com/ksengland "Karleen England")
+<a href="https://github.com/ksengland" target="_blank">GitHub</a>
 <br>
-[Profile](https://ksengland.github.io "Karleen England")
+<a href="https://ksengland.github.io" target="_blank">Website</a>
 <br>
-[LinkedIn](https://www.linkedin.com/in/karleenengland/ "Karleen England")
+<a href="https://www.linkedin.com/in/karleenengland/" target="_blank">LinkedIn</a>
+<br>
+<a href="https://www.buymeacoffee.com/ksengland" target="_blank">Support My Work</a>
 
 ## License
 MIT License

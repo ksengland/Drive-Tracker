@@ -18,7 +18,6 @@ Click <a href="https://ksengland.github.io/Drive-Tracker/" target="_blank">here<
 1. Fork this repository
 2. Clone your forked repository
 3. Open the repository and drag `index.html` onto your browser
-4. Move your mouse around your screen to see the eyes follow you
 
 ## Built With:
 - Mapbox
